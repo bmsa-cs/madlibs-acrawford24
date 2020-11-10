@@ -15,13 +15,13 @@ pt_verb1 = input ("Enter a past tense verb: ")
 
 adjective1 = input ("Enter an adjective: ")
 
-plural_noun1 = input ("Enter a plural noun: ")
+plural_noun1 = input ("Enter a uppercase plural noun: ")
 
 verb1 = input ("Enter a verb: ")
 
 plural_noun2 = input ("Enter a plural noun: ")
 
-noun1 = input ("Enter another noun: ")
+noun1 = input ("Enter a upper case noun: ")
 
 name2 = input ("Enter another name: ")
 
